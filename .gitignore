@@ -1,0 +1,9 @@
+config.ini
+.project
+/bin
+/target
+/.settings
+/report
+/test-output
+/tools/chromedriver
+/src/com/temp
